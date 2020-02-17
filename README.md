@@ -1,3 +1,3 @@
 # WebMobProject
 
-** Tehtävien osat löytyvät suoraan tiedostojen sisältä **
+**Tehtävät löytyvät suoraan tiedostojen sisältä**
