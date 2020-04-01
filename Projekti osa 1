@@ -1,6 +1,12 @@
-Aloitussivuna toimii kuva ibanez-kitarasta, ja kolme alasivua olisi elektroniset kitarat, uutuus sekä akustiset kitarat.
-Jokaisella sivulla on kuva soittimesta ja yleinen kuvaus soittimesta.
-Yksi iso kuva on uutuus sivulla, jossa esitellään uusinta kitaraa.
-Pienemmät kuvat ovat elektroniset ja akustiset sivuilla, kitaroista, joita esitellään. 
-Kuva, joka toimii linkkinä on linkki uuteen kitaraan eli uutuus sivulle. Kuva on sijoitettu esimerkiksi elektroniset sivulle.
+Kohderyhmä olisi kitaroista kiinnostuneet erityisesti ibanez-merkkisistä.
 
+Aloitus-sivu koostuu kahdesta yhdestä suuresta kuvasta, jossa kuvat vaihtelevat jatkuvasti. Aloitus-sivun tarkoituksena on pelkästään
+näyttää kitaroiden sekä sivuston hienoutta.
+
+3 alasivua koostuvat elektronisista, akustisista sekä uutuuskitaroista. Elektroninen alasivu esittelee elektronisia kitaroita, josta
+löytyy kuvasta linkki uutuus-sivulle eli se kitara on myös uutuuskitara.
+Akustiset sivulla esitellään ibanezin akustisia kitaroita ja uutuus-sivulla esitellään uusinta kitaraa.
+
+1 taustakuva onkin kaksi taustakuvaa eli kotisivulla, joka koostui kahdesta vaihtelevasta kuvasta.
+
+Tekstiä kitaroista löytää lorem ipsumilla, ja kitaroiden nimet/otsikot ovat oikeat kitaran nimet.
